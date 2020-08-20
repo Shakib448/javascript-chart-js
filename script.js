@@ -15,7 +15,22 @@ let massPopChart = new Chart(myChart,{
             'Tungi',
             'Narsingdi'
         ],
-        datasets : []
+        datasets : [{
+            label : 'Population',
+            data : [
+                10356500,	
+                3920222,	
+                1342339,	
+                700133,	
+                389411,
+                378701,
+                369138,
+                343122,
+                337579,
+                281080	
+            ]
+        }]
     },
     options :{},
 });
+
