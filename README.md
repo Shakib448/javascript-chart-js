@@ -1,1 +1,1 @@
-"# javascript-chart-js" 
+<img src="javascript-chart.png">
